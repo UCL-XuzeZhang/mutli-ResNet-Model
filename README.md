@@ -59,9 +59,13 @@ datetime: Provides classes for manipulating dates and times. It can be used to g
 ### Description:
 
 The dataset provides time series data of simulated gravitational wave measurements from three interferometers: LIGO Hanford, LIGO Livingston, and Virgo.
+
 Each time series includes either just detector noise or detector noise combined with a simulated gravitational wave signal. The objective is to determine when a signal (target=1) is in the data.
+
 The exact waveform of a binary black hole is influenced by 15 parameters, such as masses, location, distance, and spins. These have been randomized based on astrophysically driven prior distributions for the simulated signals but aren't part of the competition data.
+
 Every data sample (.npy file) comprises 3 time series (one for each detector). Each series lasts 2 seconds and is sampled at 2,048 Hz.
+
 The integrated signal-to-noise ratio (SNR) is crucial for determining a signal's detectability. A signal is typically considered detectable when the integrated SNR is more than ~8. This isn't the same as instantaneous SNR. Unlike the GW150914 detection, these signals usually aren't discernible by just viewing the time series.
 
 ### Files:
