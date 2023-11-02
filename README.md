@@ -54,7 +54,7 @@ datetime: Provides classes for manipulating dates and times. It can be used to g
 
 ## Datasets
 
-### Dataset Source: G2Net Gravitational Wave Detection on Kaggle^[https://www.kaggle.com/competitions/g2net-gravitational-wave-detection/data]
+### [Dataset Source: G2Net Gravitational Wave Detection on Kaggle](https://www.kaggle.com/competitions/g2net-gravitational-wave-detection/data)
 
 ### Description:
 
