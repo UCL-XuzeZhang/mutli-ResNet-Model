@@ -2,6 +2,8 @@
 
 ## Project Introduction
 
+In the vast expanse of the cosmos, humanity stands as but a speck, dwarfed by the immense scale of the universe. My profound passion for mathematics and the cosmos intertwines, revealing a world where equations and stars coalesce. With the powerful tools of advanced mathematical theories and the breakthrough methods of deep learning, we are granted a lens to delve deeper, to uncover the intricate mysteries that the universe holds. It is a journey of exploration, of seeking knowledge, and of understanding our place in this grand tapestry of existence.
+
 ### What is it?
 A one-stop construction of multiple ResNet models (ResNet16, ResNet18, ResNet34, ResNet50, ResNet101, ResNet152) to predict gravitational waves.
 
