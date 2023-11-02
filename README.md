@@ -67,8 +67,11 @@ The integrated signal-to-noise ratio (SNR) is crucial for determining a signal's
 ### Files:
 
 train/: Training set with one .npy file per observation. Labels are in the files mentioned below.
+
 test/: Test set. Predict the likelihood that the observation contains a gravitational wave.
+
 training_labels.csv: Indicates if the corresponding signal has a gravitational wave.
+
 sample_submission.csv: A template for submissions in the correct format.
 
 
